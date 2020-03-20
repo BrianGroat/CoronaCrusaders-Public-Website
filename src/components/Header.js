@@ -14,7 +14,7 @@ const Header = props => (
         </p>
       </div>
     </div>
-    <nav>
+    {/* <nav>
       <ul>
         <li>
           <button
@@ -53,7 +53,7 @@ const Header = props => (
           </button>
         </li>
       </ul>
-    </nav>
+    </nav> */}
   </header>
 )
 
